@@ -3,4 +3,11 @@
 
 This is a math-problem-related semantics-preserving perturbation benchmark that can be very helpful for evaluating the consistency of arithmetic reasoning capability.
 
-The dataset will be available on both 🤗 Hugging Face `datasets` and GitHub.
+# Dataset Usage
+Run the following command to load the data:
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("shuyuej/GSM8K-Consistency")
+dataset = dataset['train']
+```
