@@ -1,7 +1,7 @@
 # GSM8K-Consistency Benchmark
 **GSM8K-Consistency** is a benchmark database for analyzing the consistency of `Arithmetic Reasoning on GSM8K`. 
 
-## 🚀 The dataset is available on 🤗 Hugging Face!
+## 🚀 The dataset is available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency)!
 This is a math-problem-related semantics-preserving perturbation benchmark that can be very helpful for evaluating the consistency of arithmetic reasoning capability.
 
 ## 💻 Dataset Usage
