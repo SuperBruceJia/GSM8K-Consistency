@@ -17,7 +17,7 @@ print(dataset)
 Dataset description:
 ```python
 Dataset({
-    features: ['type', 'original_question', 'question', 'answer'],
+    features: ['type', 'id', 'original_question', 'question', 'answer'],
     num_rows: 80000
 })
 ```
