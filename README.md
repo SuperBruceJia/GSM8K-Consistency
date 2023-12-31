@@ -14,10 +14,10 @@ dataset = dataset['train']
 print(dataset)
 ```
 
-Dataset description:
+Dataset Description:
 ```python
 Dataset({
-    features: ['id', 'original_question', 'paraphrased_question', 'answer'],
-    num_rows: 84174
+    features: ['id', 'original_question', 'paraphrased_question', 'answer_detail', 'numerical_answer'],
+    num_rows: 85225
 })
 ```
